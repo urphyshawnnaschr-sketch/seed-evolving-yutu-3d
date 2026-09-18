@@ -1,0 +1,227 @@
+[yutu5] render engine: BLENDER_EEVEE
+D:\笨小丁\下载\yutu_v1\yutu_v5.py:101: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+D:\笨小丁\下载\yutu_v1\yutu_v5.py:119: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+D:\笨小丁\下载\yutu_v1\yutu_v5.py:149: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+[yutu5] building base ...
+[yutu5] building moon ring ...
+[yutu5] building rabbit ...
+[yutu5] building mooncake ...
+[yutu5] building clouds ...
+[yutu5] building lantern ...
+[yutu5] studio & render ...
+00:23.625  render           | Saved: 'D:\笨小丁\下载\yutu_v1\preview_front_v5.png'
+[yutu5] rendered -> D:\笨小丁\下载\yutu_v1\preview_front_v5.png
+00:26.813  render           | Saved: 'D:\笨小丁\下载\yutu_v1\preview_3q_v5.png'
+[yutu5] rendered -> D:\笨小丁\下载\yutu_v1\preview_3q_v5.png
+[yutu5] exporting glb ...
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+11:36:31 | INFO: Starting glTF 2.0 export
+11:36:31 | INFO: Extracting primitive: Text
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 前金绶带曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cube.001
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cube.002
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.074
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.084
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.085
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 右上贴环云卷涡曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.094
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.095
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.096
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 右中拖尾云卷涡曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.103
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.124
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.125
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 右前小云卷涡曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.130
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.115
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.116
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 右坐地云卷涡曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.123
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.025
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.046
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Torus.002
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cube
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.104
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.105
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 左坐地云卷涡曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.114
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.022
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cone
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Torus
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cone.001
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Torus.001
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.050
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Text.001
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 月环曲线
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cylinder.001
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Torus.003
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: 月饼花边网格
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Cylinder.006
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.132
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.133
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.134
+11:36:31 | INFO: Primitives created: 1
+11:36:31 | INFO: Extracting primitive: Sphere.135
+11:36:31 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.136
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 流苏穗曲线
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 流苏穗曲线.001
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 流苏穗曲线.002
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 流苏穗曲线.003
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 流苏穗曲线.004
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Cylinder
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.009
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Cylinder.004
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Cylinder.003
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.010
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Cylinder.005
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.004
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.001
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.002
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.003
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.004
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.005
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.006
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 灯瓜棱曲线.007
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.131
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Cylinder.002
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.005
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.006
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.007
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Torus.008
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.012
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.039
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.042
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.040
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.043
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 睫毛曲线
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 睫毛曲线.001
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 睫毛曲线.002
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: 睫毛曲线.003
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.006
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.008
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.029
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.034
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.030
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.031
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.032
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.035
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.036
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.037
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.041
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.044
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.047
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Extracting primitive: Sphere.045
+11:36:32 | INFO: Primitives created: 1
+11:36:32 | INFO: Finished glTF 2.0 export in 0.9368488788604736 s
+
+[yutu5] exported -> D:\笨小丁\下载\yutu_v1\yutu_v5.glb
+[yutu5] watertight solid + stl ...
+Info: File exported successfully
+[yutu5] exported -> D:\笨小丁\下载\yutu_v1\yutu_v5.stl
+[yutu5] saving blend ...
+00:32.141  reports          | WARNING Path 'C:\Windows\Fonts\simhei.ttf' cannot be made relative for Font 'SimHei Regular'
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+Timer 'STL Export' took 177.11 ms
+00:32.141  reports          | WARNING Path 'C:\Windows\Fonts\simhei.ttf' cannot be made relative for Font 'SimHei Regular.001'
+Info: Saved as "yutu_v5.blend"
+[yutu5] DONE
+
+Blender quit

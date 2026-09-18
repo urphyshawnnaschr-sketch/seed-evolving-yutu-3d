@@ -1,0 +1,81 @@
+[yutu2] render engine: BLENDER_EEVEE
+D:\笨小丁\下载\yutu_v1\yutu_v2.py:105: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+D:\笨小丁\下载\yutu_v1\yutu_v2.py:113: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+[yutu2] building base ...
+[yutu2] building moon ring ...
+[yutu2] building rabbit ...
+[yutu2] building mooncake ...
+[yutu2] studio & render ...
+00:09.657  render           | Saved: 'D:\笨小丁\下载\yutu_v1\preview_front_v2.png'
+[yutu2] rendered -> D:\笨小丁\下载\yutu_v1\preview_front_v2.png
+00:10.860  render           | Saved: 'D:\笨小丁\下载\yutu_v1\preview_3q_v2.png'
+[yutu2] rendered -> D:\笨小丁\下载\yutu_v1\preview_3q_v2.png
+[yutu2] exporting glb ...
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+09:34:22 | INFO: Starting glTF 2.0 export
+09:34:22 | INFO: Extracting primitive: Sphere.011
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.032
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Plane
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.009
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Cone
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Torus
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: 月环曲线
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Cylinder.002
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.002
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.025
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.028
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.026
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.029
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.015
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.020
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.016
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.017
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.018
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.021
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.022
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.023
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.027
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.030
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.033
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Extracting primitive: Sphere.031
+09:34:22 | INFO: Primitives created: 1
+09:34:22 | INFO: Finished glTF 2.0 export in 0.36823225021362305 s
+
+[yutu2] exported -> D:\笨小丁\下载\yutu_v1\yutu_v2.glb
+[yutu2] watertight solid + stl ...
+Info: File exported successfully
+[yutu2] exported -> D:\笨小丁\下载\yutu_v1\yutu_v2.stl
+[yutu2] saving blend ...
+Info: Saved as "yutu_v2.blend"
+[yutu2] DONE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+Timer 'STL Export' took 29.66 ms
+
+Blender quit
